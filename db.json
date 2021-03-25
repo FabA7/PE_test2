@@ -1,5 +1,40 @@
 {
-"occupancy": 166,
-"inactiveSpaces": 92,
-"total": 1278
+  "0": [
+    {
+      "occupancy": 166,
+      "inactiveSpaces": 92,
+      "total": 1278
+    }
+  ],
+  "1": [
+    {
+      "occupancy": 166,
+      "inactiveSpaces": 92,
+      "total": 1278
+    }
+  ],
+  "2": [
+    {
+      "occupancy": 166,
+      "inactiveSpaces": 92,
+      "total": 1278
+    }
+  ],
+  "3": [
+    {
+      "occupancy": 166,
+      "inactiveSpaces": 92,
+      "total": 1278
+    }
+  ],
+  "4": [
+    {
+      "occupancy": 166,
+      "inactiveSpaces": 92,
+      "total": 1278
+    }
+  ],
+  "profile": {
+    "name": "PE_test"
+  }
 }
