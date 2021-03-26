@@ -1,28 +1,11 @@
 {
   "levels": [
     {
-      "id": 0,
-      "occupancy": {
-                      "occupancy": 300,
-                      "inactiveSpaces": 100,
-                      "total": 400
-                    }
-    },
-    {
-      "id": 1,
-      "occupancy": {
-                      "occupancy": 166,
-                      "inactiveSpaces": 92,
-                      "total": 1278
-                    }
-    },
-    {
-      "id": 2,
-      "occupancy": {
-                      "occupancy": 166,
-                      "inactiveSpaces": 92,
-                      "total": 1278
-                    }
+      "id": [{
+            "occupancy": 166,
+            "inactiveSpaces": 92,
+            "total": 1278
+       }]
     }
   ],
   "profile": {
