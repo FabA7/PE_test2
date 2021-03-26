@@ -1,85 +1,55 @@
 {
-  "burgers": [
-
+  "levels": [
     {
       "id": 0,
-      "name": "Tribute Burger",
-      "restaurant": "Honest Burgers",
-      "web": "www.honestburgers.co.uk",
-      "description": "A mouth-watering honest beef burger",
-      "ingredients": [
-        "beef",
-        "american cheese",
-        "burger sauce",
-        "french mustard",
-        "pickes",
-        "onion",
-        "lettuce"
-      ],
-      "addresses": [
-        {
-          "addressId": 0,
-          "number": "75",
-          "line1": "Venn Street",
-          "line2": "Clapham",
-          "postcode": "SW4 0BD",
-          "country": "United Kingdom"
-        }
-      ]
+      "occupancy": 600,
+      "inactiveSpaces": 300,
+      "total": 900
     },
-
     {
       "id": 1,
-      "name": "Pulled Mooshie",
-      "restaurant": "Mooshies",
-      "web": "www.veganburger.org",
-      "description": "Spicy vegan burger with jackfruit",
-      "ingredients": [
-        "jackfruit",
-        "coleslaw",
-        "gluten free bun"
-      ],
-      "addresses": [
-        {
-          "addressId": 0,
-          "number": "104",
-          "line1": "Brick Lane",
-          "line2": "Shoreditch",
-          "postcode": "E1 6RL",
-          "country": "United Kingdom"
-        }
-      ]
+      "occupancy": 150,
+      "inactiveSpaces": 150,
+      "total": 300
     },
-
     {
       "id": 2,
-      "name": "Krabby Patty",
-      "restaurant": "Krusty Krab",
-      "web": "https://twitter.com/SpongeBob",
-      "description": "The only people who don't like a Krabby Patty have never tasted one.",
-      "ingredients": [
-        "bun",
-        "patty",
-        "ketchup",
-        "mustard",
-        "pickles",
-        "onions",
-        "lettuce",
-        "cheese",
-        "tomato",
-        "bun"
-      ],
-      "addresses": [
-        {
-          "addressId": 0,
-          "number": "831",
-          "line1": "Bottom Feeder Lane",
-          "line2": "",
-          "postcode": "",
-          "country": "Bikini Bottom, Pacific Ocean"
-        }
-      ]
+      "occupancy": 100,
+      "inactiveSpaces": 200,
+      "total": 300
+    },
+    {
+      "id": 3,
+      "occupancy": 200,
+      "inactiveSpaces": 100,
+      "total": 300
     }
-    
+  ],
+  "parkingSpaces": [
+    {
+      "id": 320,
+      "sectorName": "SECTOR_L2",
+      "levelId": 2
+    },
+    {
+      "id": 322,
+      "sectorName": "SECTOR_L2",
+      "levelId": 2
+    },
+    {
+      "id": 323,
+      "sectorName": "SECTOR_L2",
+      "levelId": 2
+    },
+    {
+      "id": 324,
+      "sectorName": "SECTOR_L2",
+      "levelId": 2
+    },
+    {
+      "id": 325,
+      "sectorName": "SECTOR_L2",
+      "levelId": 2
+    }
   ]
 }
