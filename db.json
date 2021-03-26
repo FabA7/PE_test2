@@ -1,27 +1,14 @@
 {
-   "countries":[
-      {
-         "name":"USA",
-         "grandfathers":[
-            {
-               "gFName":"Steve",
-               "grandfathersKid":[
-                  {
-                     "gFKName":"Linda",
-                     "kid":[
-                        {
-                           "name":"Steve JR",
-                           "friends":[
-                              {
-                                 "name":"Kriss|John|Martin|Steven"
-                              }
-                           ]
-                        }
-                     ]
-                  }
-               ]
-            }
-         ]
-      }
-   ]
+  "levels": [
+    {
+      
+            "occupancy": 166,
+            "inactiveSpaces": 92,
+            "total": 1278
+      
+    }
+  ],
+  "profile": {
+    "name": "PE_test"
+  }
 }
