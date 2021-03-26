@@ -1,31 +1,31 @@
 {
   "levels": [
     {
+      "id": 0,
+      "occupancy": {
+                      "occupancy": 300,
+                      "inactiveSpaces": 100,
+                      "total": 400
+                    }
+    },
+    {
       "id": 1,
-      "title": "Post 1"
+      "occupancy": {
+                      "occupancy": 166,
+                      "inactiveSpaces": 92,
+                      "total": 1278
+                    }
     },
     {
       "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "occupancy": {
+                      "occupancy": 166,
+                      "inactiveSpaces": 92,
+                      "total": 1278
+                    }
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "PE_test"
   }
 }
