@@ -2,53 +2,183 @@
   "levels": [
     {
       "id": 0,
-      "occupancy": 600,
-      "inactiveSpaces": 300,
-      "total": 900
+      "occupancy": 100,
+      "inactiveSpaces": 400,
+      "total": 500
     },
     {
       "id": 1,
-      "occupancy": 150,
-      "inactiveSpaces": 150,
-      "total": 300
+      "occupancy": 200,
+      "inactiveSpaces": 50,
+      "total": 250
     },
     {
       "id": 2,
-      "occupancy": 100,
-      "inactiveSpaces": 200,
-      "total": 300
-    },
-    {
-      "id": 3,
-      "occupancy": 200,
+      "occupancy": 150,
       "inactiveSpaces": 100,
-      "total": 300
+      "total": 250
     }
   ],
   "parkingSpaces": [
     {
-      "id": 320,
-      "sectorName": "SECTOR_L2",
+      "id": 120,
+      "sectorName": "H1",
+      "levelId": 1
+    },
+    {
+      "id": 121,
+      "sectorName": "H1",
+      "levelId": 1
+    },
+    {
+      "id": 122,
+      "sectorName": "H1",
+      "levelId": 1
+    },
+    {
+      "id": 123,
+      "sectorName": "H1",
+      "levelId": 1
+    },
+    {
+      "id": 124,
+      "sectorName": "H1",
+      "levelId": 1
+    },
+    {
+      "id": 125,
+      "sectorName": "H1",
+      "levelId": 1
+    },
+    {
+      "id": 126,
+      "sectorName": "H1",
+      "levelId": 1
+    },
+    {
+      "id": 127,
+      "sectorName": "H1",
+      "levelId": 1
+    },
+
+
+    {
+      "id": 130,
+      "sectorName": "V1",
+      "levelId": 1
+    },
+    {
+      "id": 131,
+      "sectorName": "V1",
+      "levelId": 1
+    },
+    {
+      "id": 132,
+      "sectorName": "V1",
+      "levelId": 1
+    },
+    {
+      "id": 133,
+      "sectorName": "V1",
+      "levelId": 1
+    },
+
+
+    {
+      "id": 220,
+      "sectorName": "H2",
       "levelId": 2
     },
     {
-      "id": 322,
-      "sectorName": "SECTOR_L2",
+      "id": 221,
+      "sectorName": "H2",
       "levelId": 2
     },
     {
-      "id": 323,
-      "sectorName": "SECTOR_L2",
+      "id": 222,
+      "sectorName": "H2",
       "levelId": 2
     },
     {
-      "id": 324,
-      "sectorName": "SECTOR_L2",
+      "id": 223,
+      "sectorName": "H2",
       "levelId": 2
     },
     {
-      "id": 325,
-      "sectorName": "SECTOR_L2",
+      "id": 224,
+      "sectorName": "H2",
+      "levelId": 2
+    },
+    {
+      "id": 225,
+      "sectorName": "H2",
+      "levelId": 2
+    },
+    {
+      "id": 226,
+      "sectorName": "H2",
+      "levelId": 2
+    },
+    {
+      "id": 227,
+      "sectorName": "H2",
+      "levelId": 2
+    },
+    {
+      "id": 228,
+      "sectorName": "H2",
+      "levelId": 2
+    },
+    {
+      "id": 229,
+      "sectorName": "H2",
+      "levelId": 2
+    },
+    {
+      "id": 230,
+      "sectorName": "H2",
+      "levelId": 2
+    },
+    {
+      "id": 231,
+      "sectorName": "H2",
+      "levelId": 2
+    },
+
+
+    {
+      "id": 240,
+      "sectorName": "V2",
+      "levelId": 2
+    },
+    {
+      "id": 241,
+      "sectorName": "V2",
+      "levelId": 2
+    },
+    {
+      "id": 242,
+      "sectorName": "V2",
+      "levelId": 2
+    },
+    {
+      "id": 243,
+      "sectorName": "V2",
+      "levelId": 2
+    },
+    {
+      "id": 244,
+      "sectorName": "V2",
+      "levelId": 2
+    },
+    {
+      "id": 245,
+      "sectorName": "V2",
+      "levelId": 2
+    },
+    {
+      "id": 246,
+      "sectorName": "V2",
       "levelId": 2
     }
   ]
